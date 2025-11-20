@@ -1,9 +1,7 @@
-## AI Assignment 1: Neural Networks & Digits Classification
-
-**Họ và tên:** Lê Thị Khánh Linh
-**MSSV:** 24022384
-**Lớp:** K69A-AI2
-
+## ML Assignment 1: Neural Networks & Digits Classification
+- **Họ và tên:** Lê Thị Khánh Linh
+- **MSSV:** 24022384
+- **Lớp:** K69A-AI2
 ## Tổng quan 
 Repository này chứa báo cáo và mã nguồn cho Bài tập số 1 môn Học máy. Nội dung bao gồm 2 phần chính:
 1.  **Lý thuyết:** Chứng minh toán học cho thuật toán Lan truyền ngược (Backpropagation).
